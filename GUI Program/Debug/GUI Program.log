@@ -1,0 +1,14 @@
+﻿  cApp.cpp
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(317,21): warning C4018: '<': signed/unsigned mismatch
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(319,22): warning C4018: '<': signed/unsigned mismatch
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(313,10): warning C4101: 'y': unreferenced local variable
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(313,7): warning C4101: 'x': unreferenced local variable
+  cMain.cpp
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(317,21): warning C4018: '<': signed/unsigned mismatch
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(319,22): warning C4018: '<': signed/unsigned mismatch
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(313,10): warning C4101: 'y': unreferenced local variable
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(313,7): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(225): warning C4715: 'GameLogic::O_scenerio_checker': not all control paths return a value
+C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\cMain.h(285): warning C4715: 'GameLogic::S_scenerio_checker': not all control paths return a value
+  GUI Program.vcxproj -> C:\school\fall 2022\cs449\HW 5 - sprint 4\GUI Program\Debug\GUI Program.exe

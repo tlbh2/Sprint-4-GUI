@@ -1,0 +1,2 @@
+C:\school\fall 2022\cs449\HW 4 - sprint 3\Testing\Debug\Testing.vcxproj.CopyComplete
+C:\school\fall 2022\cs449\HW 5 - sprint 4\Testing\Debug\Testing.vcxproj.CopyComplete

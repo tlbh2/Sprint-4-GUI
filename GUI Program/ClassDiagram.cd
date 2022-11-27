@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UI">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAACBIYAACQEBAAAAAADAACAAAEAAEAAACBQA=</HashCode>
+      <FileName>cMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cMain">
+    <Position X="8.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAABBCAAAAgAIAAAEBAQCEAABCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLogic">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAEgIQAAwAFACAAiAQQAACEAAAADACICIAgwAASAAg=</HashCode>
+      <FileName>cMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGame">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAAAEAAAAAAQQAAAAAAAABACAAAAgAAAAAAA=</HashCode>
+      <FileName>cMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneralGame">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAAAEAAAAAAQQAAAAAAAABACAAAAgAAAAAAA=</HashCode>
+      <FileName>cMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Computer">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIAAAAAEAAAAAAQAAAAAAAAABACAAAAAAAAAAAA=</HashCode>
+      <FileName>cMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
